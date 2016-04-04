@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<exam name="Practice Exam">
+
+	<entry>
+		<question>Which of the following is "something of value" that might be offered to FINAL CONSUMERS 
+		as part of the "price equation"?</question>
+		<answer>Sufficient margin to allow for profit.</answer>
+		<answer>Trade allowances.</answer>
+		<answer>Competitive advantage.</answer>
+		<answer acceptable="true">Branded merchandise.</answer>
+		<answer>None of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>A manufacturer spends a large amount of money on research and development 
+		leading to the introduction of a product that is likely to be a breakthrough opportunity. 
+		The manufacturer prices the product with the goal of achieving a 20 percent return on its investment. 
+		Which of the following types of pricing objectives is the company using?</question>
+		<answer  acceptable="true">Target return.</answer>
+		<answer>Profit maximization.</answer>
+		<answer>Nonprice competition.</answer>
+		<answer>Meeting competition.</answer>
+		<answer>Dollar or unit sales growth.</answer>
+	</entry>
+	
+	<entry>
+		<question>Sales-oriented pricing objectives include:</question>
+		<answer>Dollar or unit sales growth.</answer>
+		<answer>Meeting competition.</answer>
+		<answer>Growth in market share.</answer>
+		<answer>Profit maximization.</answer>
+		<answer acceptable="true">Both A and C.</answer>
+	</entry>
+	
+	<entry>
+		<question>When the total market for a product is not growing, the manager may adopt a status quo objective of simply stabilizing prices.</question>
+		<answer acceptable="true">True</answer>
+		<answer>False</answer>
+	</entry>
+	
+	<entry>
+		<question>Godiva, a maker of expensive European chocolates, does not mention price in its magazine advertising. Instead, the ad copy focuses on the quality of the ingredients, the fine packaging, and the luxurious boutiques where Godiva chocolates are sold. Godiva seems to be pursuing a pricing objective of:</question>
+		<answer>Meeting competition.</answer>
+		<answer acceptable="true">Nonprice competition.</answer>
+		<answer>Target return.</answer>
+		<answer>Growth in market share.</answer>
+		<answer>None of the above.</answer>
+	</entry>
+
+	<entry>
+		<question>A one-price policy means offering the same price:</question>
+		<answer>All four seasons of the year.</answer>
+		<answer>For all types of merchandise.</answer>
+		<answer>For individual consumers and organizational buyers.</answer>
+		<answer>For store brands and national brands.</answer>
+		<answer acceptable="true">To all customers.</answer>
+	</entry>
+	
+	<entry>
+		<question>Which of the following statements about a flexible-price policy is True?</question>
+		<answer>Flexible pricing means offering the same price to all customers who purchase under essentially the same conditions and in the same quantities.</answer>
+		<answer>The availability of computer pricing databases has had no effect on the popularity of flexible-price policies.</answer>
+		<answer acceptable="true">Flexible pricing often involves price negotiation between the buyer and seller.</answer>
+		<answer>Flexible pricing does not cause channel conflict.</answer>
+		<answer>All of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>A skimming price policy for the first SonicCare rechargeable electric toothbrush significantly increased demand.</question>
+		<answer>True</answer>
+		<answer acceptable="true">False</answer>
+	</entry>
+	
+	<entry>
+		<question>A penetration pricing policy:</question>
+		<answer acceptable="true">Tries to sell the whole market at one low price.</answer>
+		<answer>Tries to sell the top of the market at a high price.</answer>
+		<answer>Is used when demand for the product involved is inelastic.</answer>
+		<answer>Usually involves a slow reduction in price over time.</answer>
+		<answer>Is used when the firm does not expect strong competition soon after its product is introduced.</answer>
+	</entry>			
+	
+	<entry>
+		<question>The use of temporary price cuts to speed new products into a market and encourage trial by customers is:</question>
+		<answer>A penetration pricing policy.</answer>
+		<answer acceptable="true">Introductory price dealing.</answer>
+		<answer>Pricing for dollar or unit sales growth.</answer>
+		<answer>A skimming price policy.</answer>
+		<answer>A flexible-price policy.</answer>
+	</entry>
+	
+	<entry>
+		<question>Insta-Mark, Inc., makes custom-imprinted three-ring binders for business customers. Its prices are: $4.00 per binder for a single order of up to 50 binders; $3.50 per binder for a single order of 51 to 100 binders; and $3.00 per binder for a single order over 100 binders. Insta-Mark is using a(n):</question>
+		<answer>Seasonal discount.</answer>
+		<answer>Cash discount.</answer>
+		<answer>Cumulative quantity discount.</answer>
+		<answer acceptable="true">Noncumulative quantity discount.</answer>
+		<answer>Trade discount.</answer>
+	</entry>
+	
+	<entry>
+		<question>Sears reduces prices on gas grills between November and February, prior to spring and summer. This price reduction is a:</question>
+		<answer>Trade discount.</answer>
+		<answer acceptable="true">Seasonal discount.</answer>
+		<answer>Noncumulative quantity discount.</answer>
+		<answer>Cumulative quantity discount.</answer>
+		<answer>Cash discount.</answer>
+	</entry>
+	
+	<entry>
+		<question>A cash discount of 3/15, net 30 means that:</question>
+		<answer>The buyer gets a 15 percent discount off the face value of the invoice if the invoice is paid within 3 days.</answer>
+		<answer acceptable="true">The buyer gets a 3 percent discount off the face value of the invoice if the invoice is paid within 15 days.</answer>
+		<answer>The buyer makes a 3 percent down payment on the face value of the invoice within 15 days; the remainder is due in 30 days.</answer>
+		<answer>The buyer gets a 3/15 (20 percent) discount if the invoice is paid within 30 days.</answer>
+		<answer>None of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>A reduction from the list price given to channel members based on the job they are going to do is a(n):</question>
+		<answer>Sale price.</answer>
+		<answer>Everyday low price.</answer>
+		<answer acceptable="true">Trade discount.</answer>
+		<answer>Cash discount.</answer>
+		<answer>None of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>Jiffy Cake Mix Company has developed a new brownie mix that is much improved over its current offering. When a sales rep for Jiffy contacted a buyer for a major supermarket chain about stocking the new mix, the buyer demanded that Jiffy give the supermarket chain a combination of cash and free merchandise (whose value exceeded Jiffy's entire annual marketing budget for the new mix). When the sales rep for Jiffy protested, the buyer said, "It is company policy to get ______________ in order to secure shelf space for new brands."</question>
+		<answer>Push money</answer>
+		<answer>Trade discounts</answer>
+		<answer>Quantity discounts</answer>
+		<answer acceptable="true">Slotting allowances</answer>
+		<answer>Sale prices</answer>
+	</entry>	
+	
+	<entry>
+		<question>Which of the following statements about rebates is True?</question>
+		<answer>Rebates are refunds paid to consumers after a purchase.</answer>
+		<answer>Rebates ensure that the final consumer gets a producer's price reduction.</answer>
+		<answer>Many consumers purchase a product because a rebate is offered but then never request the refund.</answer>
+		<answer>Many consumers think that some sellers make it unnecessarily hard to claim a rebate.</answer>
+		<answer acceptable="true">All of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>A catalog merchant divides the country into regions. The shipping charges differ from region to region, depending on how far the region is from the catalog merchant's main warehouse facility. However, every buyer in a particular region pays the same average shipping charge. The catalog merchant is using:</question>
+		<answer>F.O.B. pricing.</answer>
+		<answer acceptable="true">Zone pricing.</answer>
+		<answer>Uniform delivered pricing.</answer>
+		<answer>Freight absorption pricing.</answer>
+		<answer>None of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>The price sticker placed on the window of a new vehicle includes the manufacturer's suggested retail price and a "destination charge" for shipping the vehicle to the dealership. The destination charge is the same everywhere in the country, no matter whether the dealership is close to or far away from the manufacturing plant. This pricing practice is called:</question>
+		<answer>F.O.B. pricing.</answer>
+		<answer>Zone pricing.</answer>
+		<answer acceptable="true">Uniform delivered pricing.</answer>
+		<answer>Freight absorption pricing.</answer>
+		<answer>None of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>"Value pricing" means setting a fair price for a marketing mix that gives the target market superior customer value.</question>
+		<answer>True</answer>
+		<answer acceptable="true">False</answer>
+	</entry>
+	
+	<entry>
+		<question>In mature markets there is downward pressure on both prices and profit margins. In this situation retailers often have to set prices to meet the competition.</question>
+		<answer acceptable="true">True</answer>
+		<answer>False</answer>
+	</entry>	
+	
+	<entry>
+		<question>A jewelry store advertises a one-carat diamond engagement ring for a sale price of $5,000 (a 50 percent discount from the original price of $10,000). However, the ring was never offered at the original price, and its actual cost to the retailer was only $1,500. This jewelry store could be accused of using:</question>
+		<answer>Price fixing.</answer>
+		<answer acceptable="true">Phony list prices.</answer>
+		<answer>Dumping.</answer>
+		<answer>Price discrimination.</answer>
+		<answer>Unfair trade practices.</answer>
+	</entry>
+	
+	<entry>
+		<question>The president of a major airline makes telephone calls to the top executives of several other airlines asking them to "hold the line" and refrain from offering discounts on fares for several key routes in order to improve profit margins. This practice could easily be considered:</question>
+		<answer>Dumping.</answer>
+		<answer>Price discrimination.</answer>
+		<answer acceptable="true">Price fixing.</answer>
+		<answer>Zone pricing.</answer>
+		<answer>None of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>Charlie Ferragamo is a sales representative for the Season-All Spice Company, and sells spices to large food service operations and restaurants. Charlie used to be able to justify selling his products for a higher price than the competition because he believed his spices were of higher quality. However, now the demand for individual brands of spices has become very elastic because buyers perceive few differences among the brands. One of Charlie's regular customers told Charlie that another spice company offered him a significantly lower price on spices, and he asked if Charlie could match the price. Charlie said, "I have to see a written price quote from the competitor. If I lower my price without seeing the price quote, I could be accused by my other customers of engaging in ________________."</question>
+		<answer>Dumping.</answer>
+		<answer acceptable="true">Price discrimination.</answer>
+		<answer>Price fixing.</answer>
+		<answer>Zone pricing.</answer>
+		<answer>None of the above.</answer>
+	</entry>
+	
+	<entry>
+		<question>The Robinson-Patman Act:</question>
+		<answer>States that selling the same product to different consumers at different prices is always illegal.</answer>
+		<answer>Makes it illegal for a firm to offer quantity discounts.</answer>
+		<answer acceptable="true">Requires that promotional allowances be made available to all of a firm's customers on "proportionately equal" terms.</answer>
+		<answer>All of the above.</answer>
+		<answer>None of the above.</answer>
+	</entry>		
+	
+</exam>
